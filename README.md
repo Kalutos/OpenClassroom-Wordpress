@@ -12,11 +12,6 @@ Site vitrine pour la société WebAgency en HTML/CSS réalisé pour la 1re soute
 - Le portfolio doit être fonctionnel et de qualité professionnelle.
 
 
-## Auteurs
-
-- Arthur Selva - selva.arthur@gmail.com
-
-
 ## Fichiers
 
 - README.md  
@@ -26,7 +21,12 @@ Site vitrine pour la société WebAgency en HTML/CSS réalisé pour la 1re soute
 - .editorconfig  
 - images/  
 - fonts/  
-- WebAgency - MjE.pptx  
+- WebAgency - MjE.pptx
+
+  
+## Auteurs
+
+- Arthur Selva - selva.arthur@gmail.com
 
 
 ## W3C
@@ -42,3 +42,4 @@ Lien vers le site de la WebAgency : [Voir le site](https://ton-lien-du-site.com)
 ## GitHub
 
 Lien du repository : [Voir le repo]([https://github.com/Kalutos/OpenClassroom-Wordpress])
+
