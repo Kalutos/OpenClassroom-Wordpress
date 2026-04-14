@@ -1,6 +1,6 @@
-# OC-WP-ireki
+# OpenClassroom-PDW 2
  
-# WordPress - PDW 2
+# WordPress-Ireki 
 
 Site vitrine pour la société WebAgency en HTML/CSS réalisé pour la 1re soutenance du parcours "Développeur Web Junior" d'OpenClassrooms.
 
